@@ -1,12 +1,11 @@
 angularfullstack-gettext
 ========================
 
-Installation
-========================
+# Installation
+  
+    $ bower install
 
-$ bower install
-
-$ npm install 
+    $ npm install 
 
 Check MongoDB connection option /server/config/environment/development.js
 
