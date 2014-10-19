@@ -2,9 +2,15 @@ angularfullstack-gettext
 ========================
 
 Installation
-$ bower install --save
+========================
 
-$ npm install
+$ bower install
+
+$ npm install 
 
 Check MongoDB connection option /server/config/environment/development.js
+
+
+Example getText translations service /client/components/translate
+
 
