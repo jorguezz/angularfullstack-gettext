@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: client/app/account/login/login.html
+#: client/app/account/signup/signup.html
+msgid "<i class=\"fa fa-facebook\"></i> Connect with Facebook"
+msgstr ""
+
+#: client/app/account/login/login.html
+#: client/app/account/signup/signup.html
+msgid "<i class=\"fa fa-google-plus\"></i> Connect with Google+"
+msgstr ""
+
+#: client/app/account/login/login.html
+#: client/app/account/signup/signup.html
+msgid "<i class=\"fa fa-twitter\"></i> Connect with Twitter"
+msgstr ""
+
+#: client/app/account/signup/signup.html
+msgid "A name is required"
+msgstr ""
+
+#: client/app/account/login/login.html
+msgid "Accounts are reset on server restart from <code>server/config/seed.js</code>. Default account is <code>test@test.com</code> / <code>test</code>"
+msgstr ""
+
+#: client/app/account/login/login.html
+msgid "Admin account is <code>admin@admin.com</code> / <code>admin</code>"
+msgstr ""
+
+#: client/app/account/settings/settings.html
+msgid "Change Password"
+msgstr ""
+
+#: client/app/account/settings/settings.html
+msgid "Current Password"
+msgstr ""
+
+#: client/app/account/signup/signup.html
+#: client/app/contact/contact.html
+msgid "Doesn't look like a valid email."
+msgstr ""
+
+#: client/app/main/main.html
+msgid "Features:"
+msgstr ""
+
+#: client/app/main/main.html
+msgid "Kick-start your next web app with Angular Fullstack"
+msgstr ""
+
+#: client/app/contact/contact.html
+msgid "Message"
+msgstr ""
+
+#: client/app/contact/contact.html
+msgid "Message must be at least 3 characters."
+msgstr ""
+
+#: client/app/todos/todos.html
+msgid "My todo list"
+msgstr ""
+
+#: client/app/account/signup/signup.html
+msgid "Name"
+msgstr ""
+
+#: client/app/account/settings/settings.html
+msgid "New Password"
+msgstr ""
+
+#: client/app/account/signup/signup.html
+msgid "Password"
+msgstr ""
+
+#: client/app/account/settings/settings.html
+#: client/app/account/signup/signup.html
+msgid "Password must be at least 3 characters."
+msgstr ""
+
+#: client/app/account/login/login.html
+msgid "Please enter a valid email."
+msgstr ""
+
+#: client/app/account/login/login.html
+msgid "Please enter your email and password."
+msgstr ""
+
+#: client/app/account/login/login.html
+msgid "Register"
+msgstr ""
+
+#: client/app/account/settings/settings.html
+msgid "Save changes"
+msgstr ""
+
+#: client/app/account/signup/signup.html
+msgid "Sign up"
+msgstr ""
+
+#: client/app/admin/admin.html
+msgid "The delete user and user index api routes are restricted to users with the 'admin' role."
+msgstr ""
+
+#: client/app/account/signup/signup.html
+#: client/app/contact/contact.html
+msgid "What's your email address?"
+msgstr ""
+
+#: client/app/account/signup/signup.html
+msgid "{{ errors.password }}"
+msgstr ""

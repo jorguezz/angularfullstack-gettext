@@ -1,0 +1,12 @@
+<footer class="footer" ng-controller="FooterCtrl">
+  <div class="container">
+
+  <label translate>Languaje:</label>
+
+  <select chosen id="selectLanguaje" ng-model="selectedItem" ng-options="lang.name for lang in langs track by lang.code" ng-change="changeLang(selectedItem)">
+  </select>
+
+  <br>
+
+  </div>
+</footer>

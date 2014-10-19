@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: client/app/account/login/login.html client/app/account/signup/signup.html
+msgid "Connect with Facebook"
+msgstr "Entrar con Facebook"
+
+#: client/app/account/login/login.html client/app/account/signup/signup.html
+msgid "Connect with Google+"
+msgstr "Entrar con Google+"
+
+#: client/app/account/login/login.html client/app/account/signup/signup.html
+msgid "Connect with Twitter"
+msgstr "Entrar con Twitter"
+
+#: client/app/account/signup/signup.html
+msgid "A name is required"
+msgstr "Un nombre es requerido"
+
+#: client/app/account/login/login.html
+msgid ""
+"Accounts are reset on server restart from <code>server/config/seed.js</"
+"code>. Default account is <code>test@test.com</code> / <code>test</code>"
+msgstr ""
+"La cuenta será reseteada desde el servidor <code>server/config/seed.js</"
+"code>. Por defecto la cuenta es <code>test@test.com</code> / <code>test</"
+"code>"
+
+#: client/app/account/login/login.html
+msgid "Admin account is <code>admin@admin.com</code> / <code>admin</code>"
+msgstr ""
+"Cuenta de administrador <code>admin@admin.com</code> / <code>admin</code>"
+
+#: client/app/account/settings/settings.html
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: client/app/account/settings/settings.html
+msgid "Current Password"
+msgstr "Contraseña Actual"
+
+#: client/app/account/signup/signup.html client/app/contact/contact.html
+msgid "Doesn't look like a valid email."
+msgstr "No parece un campo de email válido."
+
+#: client/app/main/main.html
+msgid "Features:"
+msgstr "Prestaciones"
+
+#: client/app/main/main.html
+msgid "Kick-start your next web app with Angular Fullstack"
+msgstr "Empieza tu siguiente web app con Angular FullStack"
+
+#: client/app/contact/contact.html
+msgid "Message"
+msgstr "Mensaje"
+
+#: client/app/contact/contact.html
+msgid "Message must be at least 3 characters."
+msgstr "Mensaje debe ser al menos de 3 caractéres"
+
+#: client/app/todos/todos.html
+msgid "My todo list"
+msgstr "Mi lista de tareas"
+
+#: client/app/account/signup/signup.html
+msgid "Name"
+msgstr "Nombre"
+
+#: client/app/account/settings/settings.html
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: client/app/account/signup/signup.html
+msgid "Password"
+msgstr "Contraseña"
+
+#: client/app/account/settings/settings.html
+#: client/app/account/signup/signup.html
+msgid "Password must be at least 3 characters."
+msgstr "La contrasela debe ser al menos de 3 caractéres"
+
+#: client/app/account/login/login.html
+msgid "Please enter a valid email."
+msgstr "Por favor introduce un email válido"
+
+#: client/app/account/login/login.html
+msgid "Please enter your email and password."
+msgstr "Por favor introduce tu email y contraseña"
+
+#: client/app/account/login/login.html
+msgid "Register"
+msgstr "Registrar"
+
+#: client/app/account/settings/settings.html
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: client/app/account/signup/signup.html
+msgid "Sign up"
+msgstr "Registro"
+
+#: client/app/admin/admin.html
+msgid ""
+"The delete user and user index api routes are restricted to users with the "
+"'admin' role."
+msgstr ""
+"La API para eliminar usuarios está restringida para usuarios con rol de "
+"\"admin\""
+
+#: client/app/account/signup/signup.html client/app/contact/contact.html
+msgid "What's your email address?"
+msgstr "¿Cual es tu dirección de correo?"
